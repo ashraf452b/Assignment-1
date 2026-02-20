@@ -1,0 +1,19 @@
+.img{
+    width: 20px;
+}
+.pic{
+    width: 50px;
+}
+.image{
+    padding-right: 20px;
+}
+.bdr{
+    padding-left: 50px;
+}
+.copy{
+    padding-top: 10px;
+    border-top: 2px gray solid;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
